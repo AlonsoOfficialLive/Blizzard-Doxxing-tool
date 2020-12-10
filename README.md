@@ -1,4 +1,2 @@
-# Sky-Files Doxxing Tool
+# Blizzard Doxxing Tool
 1-Herramienta de doxxeo basico
-
-# Version 8
